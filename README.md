@@ -1,4 +1,4 @@
-##Database Diagram
+## Database Diagram
 
 ![Alt text](database%20diagram.jpg)
 
